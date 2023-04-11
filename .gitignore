@@ -11,7 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-.mvn/*
+mvn/*
 
 ### Eclipse ###
 .apt_generated
@@ -429,3 +429,5 @@ $RECYCLE.BIN/
 
 ### Mac OS ###
 .DS_Store
+/.mvn/
+/.idea/
