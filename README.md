@@ -8,6 +8,10 @@ A continuation of my DSA repo with JavaFX.
 - Searching
 - Pathfinding
 
+## Current State
+
+![window](Window.png)
+
 ## TODO
 
 - [ ] More algorithms.
